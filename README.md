@@ -1,4 +1,5 @@
 # OlaMundo2
- Recriando o repositório novamente pois o outro PC deu ruim. 
+ Recriando o repositório novamente.
+ deu ruim.
 
 Segunda tentativa.
